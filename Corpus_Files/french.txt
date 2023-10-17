@@ -1,0 +1,29 @@
+Science des données
+La science des données est l'étude de l’extraction automatisée de connaissance à partir de grands ensembles de données1,2.
+
+Plus précisément, la science des données est un domaine interdisciplinaire qui utilise des méthodes, des processus, des algorithmes et des systèmes scientifiques pour extraire des connaissances et des idées à partir de nombreuses données structurées ou non . Elle est souvent associée aux données massives et à l'analyse des données.
+
+Elle utilise des techniques et des théories tirées de nombreux domaines dans le contexte des mathématiques, des statistiques, de l'informatique, de la théorie et des technologies de l'information, parmi lesquelles : l’apprentissage automatique, la compression de données et le calcul à haute performance.
+Rôle de la science des données
+La science des données produit des méthodes de tri et d’analyse de données de masse afin d’en extraire des informations utiles. Pour cela, elle se met en œuvre selon quatre étapes :
+
+La fouille,
+Le nettoyage/formatage,
+Le traitement :
+Traitements classiques,
+Apprentissage automatique,
+Visualisation de données,
+L'exploitation des résultats sous forme
+de tableaux de bord et d'outils d'aide à la décision,
+de la publication de résultats (interne à l'entreprise, ou publics)
+Le spécialiste de science de données est donc souvent appelé à faire appel aux statistiques et au traitement du signal. Il s'attelle donc à la classification, au nettoyage, à l'exploration et à l'analyse de bases de données plus ou moins interopérables.
+Histoire
+Cette discipline est issue de l'apparition et du développement des bases de données et de l'Internet et répond aussi à la complexité croissante et au volume en croissance exponentielle du nombre de données numériques disponibles dans le monde (infobésité).
+
+Elle a reçu beaucoup d'attention dernièrement grâce à l’intérêt grandissant pour les "données massives". Cependant, la science des données ne se limite pas à l’étude de bases de données pouvant être qualifiées de "données massives".
+
+Par ailleurs, l'essor de techniques d’apprentissage automatique et d’intelligence artificielle a également participé à la croissance de cette discipline et à son ouverture vers de nouveaux champs en passant, par exemple, de l’analyse statistique pure de données fortement structurées à l’analyse de données semi-structurées (XML par exemple) pour notamment mettre « en correspondance des bases de données et de données textuelles »3.
+Impact sur la formation
+Comme toute discipline, cette science nouvelle a naturellement engendré de nouvelles filières de formation.
+En France
+Cette science s’inscrit dans les efforts d’accompagnement du numérique, en lien depuis qu’elle existe avec la mission Etalab, dont le directeur, Henri Verdier, est aussi « administrateur général des données de l’État », assisté par des scientifiques de données recrutés pour « accélérer la possibilité de politiques publiques « augmentées » par les données et leur analyse.
